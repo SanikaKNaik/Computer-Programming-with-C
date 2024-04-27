@@ -19,9 +19,7 @@ void main()
 
 	printf("the sum is %f\n",sum);
 		
-	
 
-	
 	avg=sum/n;
 	printf("the avg is %f",avg);
 }
